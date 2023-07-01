@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for my first development opportunity
 - 📖 I love to study
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on a project where I can use my skills (HTML, CSS, JavaScript, Node, HTTP, Node, SQL, GIT)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an airplane private pilot (But I haven't fly for a while)
