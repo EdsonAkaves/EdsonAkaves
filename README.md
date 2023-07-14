@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for my first development opportunity
 - 📖 I love to study
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & Python
 - 👯 I’m looking to collaborate on a project where I can use my skills (HTML, CSS, JavaScript, Python, HTTP, SQL, GIT)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an airplane private pilot (But I haven't fly for a while)
@@ -15,11 +15,13 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
+  <img align="center" alt="Js-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="React-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Java-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
  
 
 </div>
