@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for my first development opportunity
 - 📖 I love to study and I'm majoring in Computer Science
-- 🌱 I’m currently learning Python & Java
+- 🌱 I’m currently learning PHP and POO.
 - 👯 I’m looking to collaborate on a project where I can use my skills (HTML, CSS, JavaScript, Python, HTTP, SQL, GIT)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an airplane private pilot (But I haven't fly for a while)
