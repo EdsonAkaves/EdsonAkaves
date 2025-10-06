@@ -1,7 +1,5 @@
 ## Hey! 👋 I'm Edson Akaves
 
-<img align="right" alt="Developer" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science student passionate about technology
@@ -71,4 +69,3 @@
 <div align="center">
   <i>✨ Open to collaborate on interesting projects! ✨</i>
 </div>
-
