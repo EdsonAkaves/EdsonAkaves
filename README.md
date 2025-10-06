@@ -9,7 +9,7 @@
 - 🎓 Computer Science student passionate about technology
 - 🔭 Actively seeking my **first development opportunity**
 - 💻 Building projects with **PHP**, **JavaScript**, and modern web technologies
-- 🌱 Currently mastering **Object-Oriented Programming** and **REST APIs**
+- 🌱 Currently mastering **PHP/Laravel** and **REST APIs**
 - ✈️ Fun fact: I'm a private pilot (though I haven't flown recently!)
 - 📫 Reach me: **edson.akaves@gmail.com**
 
